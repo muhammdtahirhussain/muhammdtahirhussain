@@ -15,10 +15,27 @@ I am a backend developer with strong expertise in Python and Django, specializin
 
 ## Experience
 
-### ENIGMATIX PVT LTD.
-**Backend Developer** *(Mar 2022 – Present)*  
+### HolisticTLC Corporation.
+**Python Backend Developer | REST APIs & Scalable Systems** *(Dec 2025 – Present)*  
 
-Currently at Enigmatix, I focus on designing and developing scalable backend systems using Python, Django, and Django REST Framework (DRF). I also work with FastAPI, and Flask to build microservices and explore modern, service-oriented backend architectures, ensuring high performance, maintainability, and scalability.
+Currently working as a backend developer, focusing on building and maintaining scalable APIs and backend services using Python-based frameworks.
+
+**Key Responsibilities:**
+- Developing RESTful APIs using Django, DRF, FastAPI, and Flask.
+- Designing clean, modular, and maintainable backend architectures.
+- Optimizing API performance and database queries.
+- Worked with NestJS to apply modular service-based architectures in Node.js.
+- Conducted API testing with Postman to ensure proper functionality and error handling.
+- Collaborated with frontend and mobile developers to integrate APIs and ensure real-time data flow.
+- Working on real-world business use cases with a focus on scalability and reliability.
+- Followed Agile practices, participating in daily stand-ups, sprint planning, and collaborative coding.
+- Used Git for version control and GitLab for repository management, CI/CD pipelines, and team collaboration.
+- Worked with Docker for containerization, ensuring consistent development and deployment environments.
+
+### ENIGMATIX PVT LTD.
+**Backend Developer** *(Mar 2022 – Nov 2025)*  
+
+Worked for more than 3 years at Enigmatix, contributing to multiple backend systems and APIs across different projects and domains. I focus on designing and developing scalable backend systems using Python, Django, and Django REST Framework (DRF). I also work with FastAPI, and Flask to build microservices and explore modern, service-oriented backend architectures, ensuring high performance, maintainability, and scalability.
 
 **Key Responsibilities:**
 - Designed and developed RESTful APIs with DRF, implementing authentication, pagination, filtering, and custom permissions.
